@@ -42,16 +42,32 @@ Screenshots presentation of the project are provided below.
 
 After following these steps, the application will run, and you can start by accessing the admin page. In this section, you can create new users for your admin and agency employees.
 
+    Admin:
     Username: aa
     Password: aa
+    
+    Employee : 
+    Username : Fatih Fedai
+    Password : aa
 
 ## Screenshots
 
+#### Shema:
 ![tourismShema](images/tourismShema.png)
+
+#### Admin Page:
 ![AdminPage](images/AdminSayfası.png)
+
+#### Hotel Management:
 ![HotelManagement](images/OtelYonetimi.png)
+
+#### Room Management:
 ![RoomManagement](images/OdaYonetimi.png)
 ![ReservationManagement](images/RezervasyonYönetimi.png)
+![RaporManagement](images/RaporYonetimi.png)
+![LineChart](images/CizgiGrafigi.png)
+![PieChart](images/PastaGrafigi.png)
+![CandleChart](images/MumGrafigi.png)
 ![AddHotel](images/OtelEkle.png)
 ![AddPension](images/PansiyonEkle.png)
 ![AddPeriod](images/DönemEkle.png)
