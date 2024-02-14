@@ -68,7 +68,7 @@ After following these steps, the application will run, and you can start by acce
 ![ReservationManagement](images/RezervasyonYönetimi.png)
 
 #### Report Management:
-![RaporManagement](images/RaporYonetimi.png)
+![RaporManagement](images/RaporYönetimi.png)
 
 #### Line Chart:
 ![LineChart](images/CizgiGrafigi.png)
