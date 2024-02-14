@@ -63,15 +63,35 @@ After following these steps, the application will run, and you can start by acce
 
 #### Room Management:
 ![RoomManagement](images/OdaYonetimi.png)
+
+#### Reservation Management:
 ![ReservationManagement](images/RezervasyonYönetimi.png)
+
+#### Report Management:
 ![RaporManagement](images/RaporYonetimi.png)
+
+#### Line Chart:
 ![LineChart](images/CizgiGrafigi.png)
+
+#### Pie Chart:
 ![PieChart](images/PastaGrafigi.png)
+
+#### Candle Chart:
 ![CandleChart](images/MumGrafigi.png)
+
+#### Hotel Adding Page:
 ![AddHotel](images/OtelEkle.png)
+
+#### Pension Adding Page:
 ![AddPension](images/PansiyonEkle.png)
+
+#### Season Adding Page:
 ![AddPeriod](images/DönemEkle.png)
+
+#### Room Adding Page:
 ![AddRoom](images/OdaEkle.png)
+
+#### Reservation Adding Page:
 ![MakeReservation](images/RezervasyonYap.png)
 
 ## 🔗 Links
