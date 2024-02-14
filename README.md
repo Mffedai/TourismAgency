@@ -55,6 +55,10 @@ After following these steps, the application will run, and you can start by acce
 #### Shema:
 ![tourismShema](images/tourismShema.png)
 
+#### Layered Architecture
+![Layer1](images/Mimari1.png)
+![Layer2](images/Mimari2.png)
+
 #### Admin Page:
 ![AdminPage](images/AdminSayfası.png)
 
